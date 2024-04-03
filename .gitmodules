@@ -1,0 +1,9 @@
+[submodule "lab3"]
+	path = lab3
+	url = https://github.com/AAEfimov/MLOps_compose
+[submodule "lab1_lab2"]
+	path = lab1_lab2
+	url = https://github.com/AAEfimov/MLOps_UrFU
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/AAEfimov/MLOps_lab4
